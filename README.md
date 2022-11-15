@@ -3,7 +3,7 @@ Unveiling interpretable development-specific gene signatures in the developing h
 ![](https://github.com/linxi159/ICGS/blob/main/figures/Figure_1.tif) 
 
 ## Description of each directory
-data: the preprocessed data from real scRNA-seq data in GEO.
+data: the preprocessed data from human prefrontal cortex scRNA-seq data in GEO.
 
 results: the final results for the BN.
 
